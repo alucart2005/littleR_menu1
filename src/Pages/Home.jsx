@@ -1,7 +1,5 @@
-import {NavBar} from "../Components/NavBar"
-
 export function Home() {
   return (
-    <h1>Menu</h1>
+    <h1>Home</h1>
   );
 }
