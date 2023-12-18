@@ -11,7 +11,7 @@
 .reports,
 .products{
   display: flex;
-  height: 92vh;
+  height: 94vh;
   align-items: center;
   justify-content: center;
   font-size: 3rem;
