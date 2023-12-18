@@ -1,3 +1,3 @@
 export function Reports() {
-  return (<h1>Reports</h1>);
+  return (<h1 className="reports">Reports</h1>);
 }
